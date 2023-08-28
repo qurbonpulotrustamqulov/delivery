@@ -182,7 +182,7 @@ class _LastPageState extends State<LastPage> {
                     "Login Now",
                     style: TextStyle(
                         color: Colors.white,
-                        fontSize: 16,
+                         fontSize: 16,
                         fontWeight: FontWeight.bold),
                   )),
             ),
